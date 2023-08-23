@@ -1,0 +1,9 @@
+<basket>
+  <fruit id = "1">
+    <name>Apple</name>
+    <color>Red</color>
+    <taste>Sweet</taste>
+    <quantity>4</quantity>
+    <measure>kg</measure>
+  </fruit>
+</basket>

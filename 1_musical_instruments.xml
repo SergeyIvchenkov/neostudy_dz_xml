@@ -1,0 +1,7 @@
+<musical_instruments>
+  <musical_instrument id = "1">
+    <name>Guitar</name>
+    <type>String</type>
+    <origin>Spain</origin>
+  </musical_instrument>
+</musical_instruments>
